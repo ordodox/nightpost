@@ -27,6 +27,10 @@ Your shift survives a closed tab. And if you want a friend to suffer
 the exact same night — same mail, same shelf, same luck — the
 *challenge link* button deals them your seed.
 
+There's also **the midnight shift**: one shared shift a day, same mail
+for everyone who clocks in. The *shift №* button (or a `?shift` link)
+deals it. The group chat is the leaderboard.
+
 Three nights. The quota always rises. The last bag is the heaviest.
 
 Clock in. The mail's already waiting.
