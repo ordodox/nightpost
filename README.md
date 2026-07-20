@@ -31,6 +31,11 @@ There's also **the midnight shift**: one shared shift a day, same mail
 for everyone who clocks in. The *shift №* button (or a `?shift` link)
 deals it. The group chat is the leaderboard.
 
+The office keeps **a records shelf** — your best nights, by postage
+delivered, on your own device and nowhere else. A night worked on a
+bent table says so, right on the record. The shelf remembers even when
+you'd rather it didn't.
+
 Three nights. The quota always rises. The last bag is the heaviest.
 
 Clock in. The mail's already waiting.
