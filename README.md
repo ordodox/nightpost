@@ -36,6 +36,11 @@ delivered, on your own device and nowhere else. A night worked on a
 bent table says so, right on the record. The shelf remembers even when
 you'd rather it didn't.
 
+And if the office's numbers don't suit you, post **standing orders**:
+every quota and price is yours to bend, a night dealt under bent
+numbers wears them openly, and a challenge link carries them — so a
+friend suffers your custom night exactly, house rules and all.
+
 Three nights. The quota always rises. The last bag is the heaviest.
 
 Clock in. The mail's already waiting.
